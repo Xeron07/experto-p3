@@ -9,6 +9,10 @@
  3. run this following command (give your username & email)
  > git config
  
+## Status
+--
+- It is a git command to check your local branch
+ 
 ## Pull
 --
 - pull is a git command to fetch the data from origin. 
