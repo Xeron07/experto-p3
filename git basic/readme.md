@@ -17,9 +17,16 @@
 --
 - pull is a git command to fetch the data from origin. 
  #####Example 
+> git pull
+- This command will pull all the updated data from remote branch
 >git pull origin master
 - This command will pull all the update data from master branch to your local branch and merge it.
 
+## Push
+--
+- This command will push or up all data to remote branch or web
+#####Example
+> git push
 
 ### What we have now
 1. [Git cheat sheet](/git-cheet-sheet.pdf)
