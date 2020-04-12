@@ -1,4 +1,4 @@
-#Git learning
+# Git learning
 
 ##### Now a days git is very essential for programmer. So, as we start programming we will also learn git .
 ###### All git related study and experiment also some example will be here . 
@@ -10,11 +10,11 @@
  > git config
  
 ## Status
---
+
 - It is a git command to check your local branch
  
 ## Pull
---
+
 - pull is a git command to fetch the data from origin. 
  #####Example 
 > git pull
@@ -24,7 +24,7 @@
 
 ###Task one 
 #### First git pull and push
---
+
 #####Run this following command serialy
 >git pull origin master
 
@@ -36,7 +36,7 @@
 
 
 ## Push
---
+
 - This command will push or up all data to remote branch or web
 #####Example
 > git push
