@@ -9,7 +9,12 @@
  3. run this following command (give your username & email)
  > git config
  
-
+## Pull
+--
+- pull is a git command to fetch the data from origin. 
+ #####Example 
+>git pull origin master
+- This command will pull all the update data from master branch to your local branch and merge it.
 
 
 ### What we have now
