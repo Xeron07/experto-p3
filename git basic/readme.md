@@ -22,6 +22,19 @@
 >git pull origin master
 - This command will pull all the update data from master branch to your local branch and merge it.
 
+###Task one 
+#### First git pull and push
+--
+#####Run this following command serialy
+>git pull origin master
+
+>git add .
+
+>git commit -m ""
+
+>git push
+
+
 ## Push
 --
 - This command will push or up all data to remote branch or web
