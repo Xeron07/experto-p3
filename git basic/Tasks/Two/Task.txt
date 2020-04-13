@@ -1,0 +1,7 @@
+Task no 2
+
+1. Create a new text file (name must be yours)
+2. Why you want to learn python.
+3. Push it to your branch
+4. Create a pull request
+5. After merged, again pull.

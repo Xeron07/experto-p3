@@ -1,4 +1,8 @@
-pu#Git learning
+<<<<<<< HEAD
+pugi#Git learning
+=======
+# Git learning
+>>>>>>> 256bc6ef4a701697224aa0898ead4bfe1b82fb42
 
 ##### Now a days git is very essential for programmer. So, as we start programming we will also learn git .
 ###### All git related study and experiment also some example will be here . 
@@ -10,11 +14,11 @@ pu#Git learning
  > git config
  
 ## Status
---
+
 - It is a git command to check your local branch
  
 ## Pull
---
+
 - pull is a git command to fetch the data from origin. 
  #####Example 
 > git pull
@@ -24,7 +28,7 @@ pu#Git learning
 
 ###Task one 
 #### First git pull and push
---
+
 #####Run this following command serialy
 >git pull origin master
 
@@ -36,7 +40,7 @@ pu#Git learning
 
 
 ## Push
---
+
 - This command will push or up all data to remote branch or web
 #####Example
 > git push
