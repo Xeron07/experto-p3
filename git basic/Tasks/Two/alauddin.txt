@@ -16,6 +16,3 @@ Dept. Of Programing Course
 *Network Security
 
 #Syber Security
-
-
-
