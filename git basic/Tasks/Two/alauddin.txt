@@ -1,0 +1,18 @@
+Hello Python.
+WelCome To My World.
+I'm Alauddin Munshi.
+Dept of Computer Science
+American International  University -Bangladesh
+
+Dept. Of Programing Course
+1. C and C+
+2. Java
+3. CSharp (C#)
+4. Web Tec(Web Dep)
+
+*Algorithm
+*Computer Networking
+*Advance Computer NetWorking
+*Network Security
+
+#Syber Security
